@@ -1,8 +1,15 @@
 #!/usr/bin/python3
+"""
+Implementing the pascals triangle
+"""
 
-# implementing the pascals triangle
 
 def pascal_triangle(n):
+    """
+    The pascals triangle, which is a maths concept is a code that
+    return a list of intergents
+    """
+
     if n <= 0:
         return []
 
