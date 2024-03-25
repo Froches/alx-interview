@@ -3,6 +3,7 @@
 Module for minimum operators
 """
 
+
 def minOperations(n):
     """
     Gets fewer number of operations needed inexactlyH
